@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on  my Web Development  and DSA skills<br>- 🌱 I’m currently learning React<br>- 👯 I’m looking to collaborate on anything under my skills<br>- 📫 Mail @ "rashidshubhat@gmail.com<br>
+-🔭 I’m currently working on  my Web Development  and DSA skills<br>- 🌱 I’m currently learning React<br>- 👯 I’m looking to collaborate on anything under my skills<br>- 📫 Mail @ "rashidshubhat@outlook.com<br>
 
 
 # 💻 Tech Stack:
