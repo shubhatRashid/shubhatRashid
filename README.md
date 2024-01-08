@@ -1,3 +1,4 @@
+![image](https://github.com/shubhatRashid/shubhatRashid/assets/106548827/b753d364-73b2-4440-8bff-f8eb92ca7820)
 <h1 align="center">Hi 👋, I'm Shubhat Rashid</h1>
 <h3 align="center">A FULL STACK DEVELOPER</h3>
 
