@@ -12,9 +12,9 @@
 
 - 👨‍💻 **PORTFOLIO** : [https://shubhatrashid.vercel.app/](https://shubhatrashid.vercel.app/)
 
-- 📫 How to reach me **shubhatrashid@outlook.com**
+- 📫 **MAIL ME AT** : **shubhatrashid@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing](https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing)
+- 📄 **SEE MY RESUME HERE** [https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing](https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
