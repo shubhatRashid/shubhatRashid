@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **OPEN SOURCE**
 
-- 👨‍💻 All of my projects are available at [https://shubhatrashid.vercel.app/](https://shubhatrashid.vercel.app/)
+- 👨‍💻 **PORTFOLIO** : [https://shubhatrashid.vercel.app/](https://shubhatrashid.vercel.app/)
 
 - 📫 How to reach me **shubhatrashid@outlook.com**
 
