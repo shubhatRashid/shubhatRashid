@@ -2,19 +2,17 @@
 <h3 align="center">A FULL STACK DEVELOPER</h3>
 <p align='center'> MERN-STACK / TAILWIND / BOOTSTRAP / REACT-NATIVE</p>
 
-- 🔭 I’m currently working on **A JOBSEARCH APP**
-
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently working with **REACT NATIVE**
 
 - 👯 I’m looking to collaborate on **REACT AND JS PROJECTS**
 
-- 🤝 I’m looking for help with **OPEN SOURCE**
+- 🤝 I’m open to work in collaboration for **OPEN SOURCE**
 
 - 👨‍💻 **PORTFOLIO** : [https://shubhatrashid.vercel.app/](https://shubhatrashid.vercel.app/)
 
 - 📫 **MAIL ME AT** : **shubhatrashid@outlook.com**
 
-- 📄 **SEE MY RESUME HERE** [https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing](https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing)
+- 📄 **SEE MY RESUME HERE** : [https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing](https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
