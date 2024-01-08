@@ -1,4 +1,4 @@
-# Shubhat Rashid:
+#   Shubhat Rashid:
 -🔭 I’m a Full Stack Web Developer <br>- 🌱 I’m currently learning React Native<br>- 👯 I’m looking to collaborate on react or javascript projects<br>- 📫 Mail @ "rashidshubhat@outlook.com<br>
 
 
