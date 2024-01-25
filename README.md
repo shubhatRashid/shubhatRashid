@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with **REACT NATIVE**
 
-- 👯 I’m looking to collaborate on **REACT AND JS PROJECTS**
+- 👯 I’m looking to collaborate on **REACT, JAVASCRIPT AND PYTHON PROJECTS**
 
 - 🤝 I’m open to work in collaboration for **OPEN SOURCE**
 
