@@ -12,7 +12,7 @@
 
 - 📫 **MAIL ME AT** : **shubhatrashid@outlook.com**
 
-- 📄 **SEE MY RESUME HERE** : [https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing](https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing)
+- 📄 **SEE MY RESUME HERE** : [https://drive.google.com/file/d/133wxyZHBbowo7O2gMz4ootQXZ5IphId5/view?usp=sharing](https://drive.google.com/file/d/1He5oIlYeNj7yeJnD1zcQj9SfGoCqxZP-/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
