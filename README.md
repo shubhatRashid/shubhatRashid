@@ -2,7 +2,7 @@
 <h3 align="center">A FULL STACK DEVELOPER</h3>
 <h3 align='center'> MERN-STACK / TAILWIND / BOOTSTRAP / REACT-NATIVE </h3>
 
-- 🌱 I’m currently working with **REACT NATIVE**
+- 🌱 I’m currently working with **REACT**
 
 - 👯 I’m looking to collaborate on **REACT, JAVASCRIPT AND PYTHON PROJECTS**
 
