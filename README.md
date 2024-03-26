@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhat Rashid</h1>
 <h3 align="center">A FULL STACK DEVELOPER</h3>
-<h3 align='center'> ALGORITHMS AND DATASTRUCTURES / MERN-STACK / TAILWIND / BOOTSTRAP / REACT-NATIVE </h3>
+<h3 align='center'> ALGORITHMS AND DATA STRUCTURES / MERN-STACK / TAILWIND / BOOTSTRAP / REACT-NATIVE </h3>
 
 - 🌱 I’m currently working with **REACT**
 
